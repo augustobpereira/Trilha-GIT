@@ -1,1 +1,3 @@
-Repositório destinado ao código fonte dos desafios propostos na trilha de capacitação do Projeto Sementes pela UNICRED.
+Repositório  criado para estudo da trilha de GIT do Projeto Sementes.
+
+Não foi necessidade de instalar GIT Bash pois o mesmo já estava instalado.
